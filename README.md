@@ -2,9 +2,10 @@
 
 This repository contains the source code accompanying our paper:
 
-> **[Modeling parametric uncertainty in PDEs models via Physics-Informed Neural Networks]**  
+> **[Parameterized PINNs as Differentiable Solvers for Heterogeneous Darcy Flow: Learning Solution Manifolds with Encoded Conductivity Fields}
+\titlerunning{Parameterized PINNs as Differentiable Solvers for Heterogeneous Darcy Flow]**  
 > [Milad Panahi, Giovanni Michele Porta, Monica Riva, Alberto Guadagnin]  
-> *Advances in Water Resources* (2024).  
+> *APNAS Nexus* (2025).  
 > [https://doi.org/10.1016/j.advwatres.2024.104870]([https://www.sciencedirect.com/science/article/pii/S0309170824002574)](https://doi.org/10.1016/j.advwatres.2024.104870)
 
 If you find this code useful in your research, please cite the paper:
