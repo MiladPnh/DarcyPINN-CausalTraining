@@ -6,7 +6,6 @@ This repository contains the source code accompanying our paper:
 \titlerunning{Parameterized PINNs as Differentiable Solvers for Heterogeneous Darcy Flow]**  
 > [Milad Panahi, Giovanni Michele Porta, Monica Riva, Alberto Guadagnin]  
 > *APNAS Nexus* (2025).  
-> [https://doi.org/10.1016/j.advwatres.2024.104870]([https://www.sciencedirect.com/science/article/pii/S0309170824002574)](https://doi.org/10.1016/j.advwatres.2024.104870)
 
 If you find this code useful in your research, please cite the paper:
 
