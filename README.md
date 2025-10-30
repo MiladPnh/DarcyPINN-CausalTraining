@@ -6,7 +6,3 @@ This repository contains the source code accompanying our paper:
 \titlerunning{Parameterized PINNs as Differentiable Solvers for Heterogeneous Darcy Flow]**  
 > [Milad Panahi, Giovanni Michele Porta, Monica Riva, Alberto Guadagnin]  
 > *APNAS Nexus* (2025).  
-
-If you find this code useful in your research, please cite the paper:
-
-Milad Panahi, Giovanni Michele Porta, Monica Riva, and Alberto Guadagnini. Modeling parametric uncertainty in pdes models via physics-informed neural networks. Advances in Water Resources, 195:104870, 2025.
